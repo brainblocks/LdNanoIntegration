@@ -9,7 +9,7 @@ Shopware plugin for accepting [Raiblocks](https://raiblocks.net/) payments via [
 
 ## Setup
 
-1. Download Plugin [here](https://github.com/LucaDe/LdRaiblocksIntegration/releases/download/1.0/LdRaiblocksIntegration.zip).
+1. Download Plugin [here](https://github.com/brainblocks/LdRaiblocksIntegration/releases/download/1.0/LdRaiblocksIntegration.zip).
 2. Upload the zip file via your plugin manager in your shopware installation
 3. Install and activate the plugin 
 3. Set your xrb destination address in the plugin's configuration
